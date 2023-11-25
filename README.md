@@ -49,9 +49,9 @@ To add a container to the Storage Account, locate the Resource Group created at 
 <br />
 
 <p>
-<img src="https://i.imgur.com/PGHftGO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yJYY71S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now we're going to create an admin and normal user account in Active Directory. Under the tools tab in Server Manager, click Active Directory Users and Computers (ADUC) and then create an Organizational Unit (OU) called _EMPLOYEES. Also, create a new OU named _ADMINS. We'll create a new employee named Jane Doe with the username of jane_admin. Next, we'll add jane_admin to the Domain Admins Security Group, and once that's done we'll log out and log back in with example.com\jane_admin.
+After creating a Container, click on it, and select "Upload" to add a file inside the Container.
 </p>
 <br />
