@@ -6,21 +6,21 @@
 This tutorial outlines a step-by-step process for deploying a storage account in Azure.<br />
 
 <h2>Environments and Technologies Used</h2>
+
 - Microsoft Azure 
+
 - Microsoft Azure Storage Accounts
 
 <h2>Operating Systems Used </h2>
+
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Objectives</h2>
 
-- Setup Resources in Azure
-- Ensure Connectivity between Client-1 and Domain Controller
-- Install Active Directory
-- Create an Admin and Normal User Account
-- Add Client-1 to the domain
-- Setup Remote Desktop for non-administrative users on Client-1
-- Create a bunch of additional users with PowerShell ISE
+- Create a Resource Group
+- Deploy a Storage Account 
+- Add a Container within the Storage Account
+- Upload/Edit a File inside the Container 
 
 <h2>Deployment and Configuration Steps</h2>
 
