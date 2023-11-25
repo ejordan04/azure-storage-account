@@ -63,3 +63,11 @@ After creating a Container, click on it, and select "Upload" to add a file insid
 To edit the file, click the "Context Menu" (the three dots located to the right of the file) and select "View/Edit" 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/I1r4Xcm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Make an edit inside the file. Click "Save" and download the file to see the changes.
+</p>
+<br />
