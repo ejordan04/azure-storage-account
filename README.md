@@ -41,10 +41,10 @@ Search "Storage Accounts" in the same search bar as before. Select "Create". Put
 <br />
 
 <p>
-<img src="https://i.imgur.com/JP3fxtO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HlNGkJz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Let's now log in to DC-1 and install Active Directory Domain Services. When the installation is complete, promote it as a DC. Then setup a new forest to anything you want. I'll be calling my domain example.com. After that, restart the VM and log back into DC-1 using the new domain (example.com\user)
+To add a container to the Storage Account, locate the Resource Group created at the beginning of this tutorial (Home Page or Search Resource Group). Once inside the Resource Group, click Storage Account (Created from before) and then click "Containers" on the left side of the web page located under Data Storage. Select "New Container" and give it a name. Click "Create".
 </p>
 <br />
 
